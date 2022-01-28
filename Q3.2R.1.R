@@ -1,5 +1,6 @@
 #Assignment 3.2
 
+https://github.com/2022lolly/cookies/blob/main/Q3.2R.1.R
 
 install.packages("devtools")
 install.packages("roxygen2")
