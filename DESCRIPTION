@@ -1,0 +1,15 @@
+Package: myfirstpackage
+
+Title: remember to buy cookies and how to cheat solutions on an R exam
+Version: 0.0.0.9000
+
+Authors@R: Lena A
+
+Description: The package has two functions: remind_me() which takes no arguments and returns some things that are useful for you to remember (birthdays, deadlines etc. The second function cheat() takes one argument specifying which exercise from assignment 3.1. the user of this package wants to cheat on. Given the exercise number, the cheat() function tells the user the correct solution. The cheat function works for 4 exercises. 
+
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+
